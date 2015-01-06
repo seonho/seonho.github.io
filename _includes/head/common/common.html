@@ -1,5 +1,6 @@
 {% assign head_common_html = null %}
 {% capture head_common_html %}
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="author" content='{{ site.author | site.email }}'>
 	{% if page.author and page.author_email %}
 		<meta name="author" content='{{ page.author }} | {{ page.author_email }}'>
@@ -31,6 +32,6 @@
 	{% elsif site.favicon.enabled and site.favicon.remote.enabled %}
 		<link rel="icon" type="image/{{ site.favicon.remote.type }}" href="{{ site.favicon.remote.full_url }}" />
 	{% endif %}
-	
+
 {% endcapture %}
 {{ head_common_html | strip_newlines | remove:'	' }}

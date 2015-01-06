@@ -23,12 +23,12 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The Official gh-pages-blog GitHub Page
-url : https://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : seonho
+#brand :
+description : Seonho's Blog
+url : https://seonho.github.io
+email : seonho@gmail.com
+author: Seonho Oh
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -171,7 +171,7 @@ sections:
       enabled : false
       url : false
     content :
-      enabled : true
+      enabled : false
     social_links :
       enabled : false
     github_projects :
@@ -290,7 +290,7 @@ social_links :
       enabled : true
       name : GitHub
       font_awesome_icon : icon-github-alt
-      url : https://github.com/
+      url : https://github.com/seonho
     - link :
       enabled : true
       name: Google+
@@ -300,9 +300,9 @@ social_links :
       enabled : true
       name : Linkedin
       font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/
+      url : http://www.linkedin.com/seonho
     - link :
-      enabled : true
+      enabled : false
       font_awesome_icon : icon-pinterest
       name : Pinterest
       url : http://www.pinterest.com
@@ -310,7 +310,7 @@ social_links :
       enabled : true
       name : Twitter
       font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/
+      url : https://www.twitter.com/seriousoh
 
 
 # These are a list of GitHub projects that the blog owner would like to
@@ -337,8 +337,23 @@ github_projects :
   header : GitHub Projects
   projects :
   - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    name : arma_ext
+    url : https://github.com/seonho/arma_ext
+  - project :
+    name : auxiliary
+    url : https://github.com/seonho/auxiliary
+  - project :
+    name : cli
+    url : https://github.com/seonho/cli
+  - project :
+    name : factory
+    url : https://github.com/seonho/factory
+  - project :
+    name : jsoncxx
+    url : https://github.com/seonho/jsoncxx
+  - project :
+    name : mycv
+    url : https://github.com/seonho/mycv
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -363,12 +378,12 @@ github_projects :
 #     - link :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
-external_links :
-  header : More Great gh-pages-blog Sites
-  links :
-    - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+#external_links :
+#  header : More Great gh-pages-blog Sites
+#  links :
+#    - link :
+#      name : The Dereck
+#      url: https://thedereck.github.io
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
@@ -548,9 +563,9 @@ rss :
 #   shortname : TheDereck
 #   show_comment_count : false
 disqus :
-  enabled : false
-  shortname : myshortname
-  show_comment_count : true
+  enabled : true
+  shortname : seonho
+  show_comment_count : false
 
 
 # This section determines whether to use Google Analytics to track site
@@ -571,7 +586,22 @@ disqus :
 #     enabled : true
 #     tracking_id : UA-1234567
 analytics :
-  enabled : false
+  enabled : true
   google_analytics :
-    enabled : false
-    tracking_id : UA-1234567
+    enabled : true
+    tracking_id : UA-21411601-2
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+#pygments:         true
+
+redcarpet:
+    extensions:
+      - no_intra_emphasis
+      - fenced_code_blocks
+      - tables
+      - strikethrough
+      - superscript
+      - autolink
+      - hard_wrap
