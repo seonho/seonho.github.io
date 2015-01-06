@@ -4,6 +4,7 @@ title: Github에 Jekyll을 이용한 블로그 만들기
 comments: true
 #redirect_from: "/2014/05/01/github-pages-jekyll/"
 #permalink: github-pages-jekyll
+category: Writing
 tags: [GitHub, jekyll, blog]
 ---
 

@@ -5,7 +5,6 @@ comments: true
 #redirect_from: "/2014/06/04/package-manager-for-os-x/"
 #permalink: package-manager-for-os-x
 tags: ['OS X', brew, MacPorts, 'Package manager']
-category: blog
 ---
 
 ## MacPorts vs. Homebrew

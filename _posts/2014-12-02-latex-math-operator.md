@@ -4,6 +4,7 @@ title: LaTeX math operators and functions
 comments: true
 #redirect_from: "2014/12/02/latex-math-operator/"
 #permalink: latex-math-operator
+category: Writing
 tags: [LaTeX, Math, Operator]
 ---
 

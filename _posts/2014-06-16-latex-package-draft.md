@@ -4,6 +4,7 @@ title: LaTeX에서 draft 문서 표시하기
 comments: true
 #redirect_from: "2014/06/16/latex-package-draftwatermark/"
 #permalink: latex-package-draftwatermark
+category: Writing
 tags: [LaTeX, Package, draftwatermark]
 ---
 

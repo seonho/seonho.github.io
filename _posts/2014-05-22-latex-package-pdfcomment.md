@@ -4,6 +4,7 @@ title: LaTex에서 생성할 pdf 문서에 comment 추가하기
 comments: true
 #redirect_from: "2014/05/22/latex-package-pdfcomment/"
 #permalink: latex-package-pdfcomment
+category: Writing
 tags: [LaTeX, Package, pdfcomment]
 ---
 

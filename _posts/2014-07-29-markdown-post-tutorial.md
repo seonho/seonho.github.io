@@ -4,6 +4,7 @@ title: Markdown을 이용한 연구 포스팅 작성하기 예제
 comments: true
 #redirect_from: "2014/07/29/markdown-post-tutorial/"
 #permalink: markdown-post-tutorial
+category: Writing
 tags: [Markdown, GFM]
 ---
 

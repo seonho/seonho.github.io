@@ -4,6 +4,7 @@ title: MEX compile error&#58; unknown type name 'char16_t'
 comments: true
 #redirect_from: "2014/08/14/mex-compile-error-unknown-type-name-char16_t/"
 #permalink: mex-compile-error-unknown-type-name-char16_t
+category: Programming
 tags: [MATLAB, mex, char16_t, compile, error]
 ---
 
