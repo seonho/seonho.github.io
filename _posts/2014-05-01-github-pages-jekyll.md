@@ -32,7 +32,7 @@ gem install jekyll-redirect-from
 gem install jekyll-scholar
 ```
 
-## 참고
+### 참고
 * [How I Created a Beatiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
 * [지킬로 깃허브에 무료 블로그 만들기](http://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
 * [Github의 페이지 기능 이용하기](http://dogfeet.github.io/articles/2012/github-pages.html)

@@ -602,6 +602,5 @@ redcarpet:
       - fenced_code_blocks
       - tables
       - strikethrough
-      - superscript
       - autolink
       - hard_wrap

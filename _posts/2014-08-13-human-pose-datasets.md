@@ -8,9 +8,9 @@ category: Research
 tags: [Human, Pose, Dataset]
 ---
 
-# Datasets
+## Datasets
 
-## Human Pose Datasets
+### Human Pose Datasets
 
 - Poses in the Wild [[link](http://lear.inrialpes.fr/research/posesinthewild/)]
 - **F**rames **L**abeled **I**n **C**inema (FLIC) [[link](http://vision.grasp.upenn.edu/cgi-bin/index.php?n=VideoLearning.FLIC)]
@@ -23,15 +23,15 @@ tags: [Human, Pose, Dataset]
 - PARSE [[link](http://www.ics.uci.edu/~dramanan/papers/parse/)]
 - HumanEva [[link](http://vision.cs.brown.edu/humaneva/)]
 
-## Human Pose Class Dataset
+### Human Pose Class Dataset
 
 - Buffy Pose Classes [[link](http://www.robots.ox.ac.uk/~vgg/data/buffy_pose_classes/)]
 
-## Synchronous Activity Dataset
+### Synchronous Activity Dataset
 
 - Synchronic Activities Stickmen V1.0 [[link](http://groups.inf.ed.ac.uk/calvin/synchronic_activities_stickmen/)]
 
-# Reference
+### Reference
 
 TBU
 

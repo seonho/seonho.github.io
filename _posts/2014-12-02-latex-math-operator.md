@@ -34,6 +34,6 @@ tags: [LaTeX, Math, Operator]
 %\newcommand{\expectation}[1]{\operatorname{E} \left[ #1 \right]}
 ```
 
-참고
+### 참고
 
 [vert vs. mid](http://tex.stackexchange.com/questions/498/mid-vertical-bar-vert-lvert-rvert-divides)

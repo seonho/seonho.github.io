@@ -35,6 +35,6 @@ tags: [LaTeX, Package, pdfcomment]
 \pdfmarkupcomment[markup=Highlight, color=yellow]{이 문장은 highlight로 표시됩니다.}{여기에 comment를 작성합니다.}
 ```
 
-## 참고
+### 참고
 
 [도은님의 pdfcomment 소개](http://doeun.blogspot.kr/2010/10/latex-package-pdfcomment.html)
